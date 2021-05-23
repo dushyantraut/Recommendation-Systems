@@ -1,0 +1,20 @@
+We are first starting with movielens dataset. The dataset is split into two parts with 9:1 ratio for train and test resp.
+
+You can download dataset from here and paste in data folder
+https://files.grouplens.org/datasets/movielens/ml-100k.zip
+
+This will be regression problem. As we have explicit ratings here.
+
+
+To run this project.
+$python trainer.py
+
+
+I have also included script to hypertune the parameters.
+
+
+
+The best test loss was found to be 0.9240.
+
+
+
